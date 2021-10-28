@@ -62,7 +62,7 @@ function TagSearch() {
                 {DataBase.data.map((item, index) => (
                     <div key={index} className={styles.resboxMain}>
                         {item.languages.filter((language) => tags.includes(language.toLowerCase())).map((language, i) => (
-                            <div className={styles.listbox}>
+                            <div key={i} className={styles.listbox}>
                                 <div className={styles.Box1}>
                                     <div className={styles.imageBox}>
                                         <Image src={'/' + item.logo} width={100} height={100} />
