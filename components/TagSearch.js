@@ -94,7 +94,7 @@ function TagSearch() {
                                         <div className={styles.box2tagp}>{item.role}</div>
                                         <div className={styles.box2tagp}>{item.level}</div>
                                         {item.languages.map((language, i) => (
-                                            <div className={styles.box2tagp}>
+                                            <div key={i} className={styles.box2tagp}>
                                                 {language}
                                             </div>
                                         ))}
