@@ -65,7 +65,7 @@ function TagSearch() {
                             <div key={i} className={styles.listbox}>
                                 <div className={styles.Box1}>
                                     <div className={styles.imageBox}>
-                                        <Image src={'/' + item.logo} width={100} height={100} />
+                                        <Image alt="image" src={'/' + item.logo} width={100} height={100} />
                                     </div>
                                     <div className={styles.box1textbox}>
                                         <div className={styles.box1_text_first}>
