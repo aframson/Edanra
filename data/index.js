@@ -3,7 +3,7 @@ export default {
         {
           id: 1,
           company: "Photosnap",
-          logo: "../public/images/photosnap.svg",
+          logo: "../images/photosnap.svg",
           new: true,
           featured: true,
           position: "Senior Frontend Developer",
@@ -18,7 +18,7 @@ export default {
         {
           id: 2,
           company: "Manage",
-          logo: "../public/images/manage.svg",
+          logo: "../images/manage.svg",
           new: true,
           featured: true,
           position: "Fullstack Developer",
@@ -33,7 +33,7 @@ export default {
         {
           id: 3,
           company: "Account",
-          logo: "../public/images/account.svg",
+          logo: "../images/account.svg",
           new: true,
           featured: false,
           position: "Junior Frontend Developer",
@@ -48,7 +48,7 @@ export default {
         {
           id: 4,
           company: "MyHome",
-          logo: "../public/images/myhome.svg",
+          logo: "../images/myhome.svg",
           new: false,
           featured: false,
           position: "Junior Frontend Developer",
@@ -63,7 +63,7 @@ export default {
         {
           id: 5,
           company: "Loop Studios",
-          logo: "../public/images/loop-studios.svg",
+          logo: "../images/loop-studios.svg",
           new: false,
           featured: false,
           position: "Software Engineer",
@@ -78,7 +78,7 @@ export default {
         {
           id: 6,
           company: "FaceIt",
-          logo: "../public/images/faceit.svg",
+          logo: "../images/faceit.svg",
           new: false,
           featured: false,
           position: "Junior Backend Developer",
@@ -93,7 +93,7 @@ export default {
         {
           id: 7,
           company: "Shortly",
-          logo: "../public/images/shortly.svg",
+          logo: "../images/shortly.svg",
           new: false,
           featured: false,
           position: "Junior Developer",
@@ -108,7 +108,7 @@ export default {
         {
           id: 8,
           company: "Insure",
-          logo: "../public/images/insure.svg",
+          logo: "../images/insure.svg",
           new: false,
           featured: false,
           position: "Junior Frontend Developer",
@@ -123,7 +123,7 @@ export default {
         {
           id: 9,
           company: "Eyecam Co.",
-          logo: "../public/images/eyecam-co.svg",
+          logo: "../images/eyecam-co.svg",
           new: false,
           featured: false,
           position: "Full Stack Engineer",
@@ -138,7 +138,7 @@ export default {
         {
           id: 10,
           company: "The Air Filter Company",
-          logo: "../public/images/the-air-filter-company.svg",
+          logo: "../images/the-air-filter-company.svg",
           new: false,
           featured: false,
           position: "Front-end Dev",
