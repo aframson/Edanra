@@ -249,7 +249,7 @@
 @media screen and (max-width: 768px) {
     .imageBox {
         position: absolute;
-        margin-top: -160px;
+        margin-top: -80px;
         height: 70px;
         width: 70px;
     }
@@ -271,6 +271,7 @@
     }
     .listbox {
         grid-template-columns: 1fr;
+        margin-top: 80px;
     }
     .tagContainer {
         width: 90%;
